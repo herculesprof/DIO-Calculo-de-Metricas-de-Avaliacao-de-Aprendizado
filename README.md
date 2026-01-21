@@ -8,11 +8,11 @@ O objetivo é consolidar o entendimento sobre como interpretar os resultados de 
 ## 🧮 Métricas Implementadas
 As seguintes fórmulas foram aplicadas conforme as definições técnicas:
 
-* [cite_start]**Acurácia:** Mede a proporção global de acertos (VP + VN) sobre o total.
-* [cite_start]**Sensibilidade (Recall):** Avalia a capacidade do modelo em identificar exemplos positivos corretamente[cite: 6, 7].
-* [cite_start]**Especificidade:** Mede a eficácia em identificar corretamente os exemplos negativos[cite: 6].
-* [cite_start]**Precisão:** Indica a proporção de predições positivas que foram realmente corretas[cite: 6].
-* [cite_start]**F-score:** Representa a média harmônica entre Precisão e Sensibilidade, sendo útil para dados desbalanceados[cite: 6, 7].
+* **Acurácia:** Mede a proporção global de acertos (VP + VN) sobre o total.
+* **Sensibilidade (Recall):** Avalia a capacidade do modelo em identificar exemplos positivos corretamente.
+* **Especificidade:** Mede a eficácia em identificar corretamente os exemplos negativos.
+* **Precisão:** Indica a proporção de predições positivas que foram realmente corretas.
+* **F-score:** Representa a média harmônica entre Precisão e Sensibilidade, sendo útil para dados desbalanceados.
 
 ## 🛠️ Tecnologias
 - **Linguagem:** Python 3.
